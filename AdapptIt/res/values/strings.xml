@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Adappt it</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty">There are no configuration files</string>
+    <string name="configs">Configuration name</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not available</string>
+    <string name="loading">Loading, please wait&#8230;</string>
+    <string name="logo">Logo</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="error">Error</string>
+    <string name="unknown">Unknown</string>
+    <string name="module_load_error">An error occurred loading the \'%1$s\' module. Check the new modules and download them again as they seem corrupted</string>
+    <string name="config_load_error">An error occurred loading the configuration. Check the file and try again</string>
+    <string name="file_access_error">File access error</string>
+    <string name="view_load_error">An error occurred loading the view. Maybe the module is not well formed, try to download it again</string>
+    <string name="invalid_config_message">Invalid configuration</string>
+    <string name="conditions_error">These conditions are not fulfilled:\n%1$s\nCheck them and try again</string>
+    
+    <string name="accept">Accept</string>
+
+</resources>
